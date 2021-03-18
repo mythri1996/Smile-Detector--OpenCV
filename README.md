@@ -1,4 +1,8 @@
 # Smile-Detector--OpenCV
 This Repositary Contains using OpenCV detect smiling Faces
-Input   -Image
+
+
+
+
+Input   -Image,
           Video
